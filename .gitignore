@@ -1,0 +1,5 @@
+result/
+impages/
+.DS_Store
+*.log
+*.bak
